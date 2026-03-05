@@ -1,0 +1,5 @@
+*.docx
+500_random_conversations.txt
+__pycache__/
+*.pyc
+.env
